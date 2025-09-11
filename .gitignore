@@ -1,0 +1,9 @@
+.env
+
+docs/docs.go
+docs/swagger.*
+
+.vscode
+cmd/api/__debug*
+
+.DS_Store
